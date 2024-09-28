@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ws101-hernandez-navbar/static/css/main.42ab03d7.css",
+    "main.js": "/ws101-hernandez-navbar/static/js/main.d5949edb.js",
+    "static/media/background.jpg": "/ws101-hernandez-navbar/static/media/background.8cc4e91a9b88eb70a061.jpg",
+    "index.html": "/ws101-hernandez-navbar/index.html",
+    "main.42ab03d7.css.map": "/ws101-hernandez-navbar/static/css/main.42ab03d7.css.map",
+    "main.d5949edb.js.map": "/ws101-hernandez-navbar/static/js/main.d5949edb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42ab03d7.css",
+    "static/js/main.d5949edb.js"
+  ]
+}
